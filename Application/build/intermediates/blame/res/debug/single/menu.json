@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\AndroidStudioProject\\Memory\\Application\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer.xml",
+        "source": "D:\\AndroidStudioProject\\Memory\\Application\\src\\main\\res\\menu\\navigation_drawer.xml"
+    }
+]
